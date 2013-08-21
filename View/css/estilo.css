@@ -1,0 +1,64 @@
+.topo{
+    height: 200px;
+    width: 193px;
+}
+
+.menulateral{
+    height: 900px;
+    width: 350px;
+    position: relative;
+    float:left;
+}
+
+.rodape{
+    height: 100px;
+    width: 100px;
+}
+
+.spc{
+    cursor: pointer;
+	display: block;
+    background-image: url(images/cheia.png);
+    background-repeat: no-repeat;
+    width:20px;
+    height:20px;
+    float:left;
+}
+
+.spv{
+    cursor: pointer;
+	display: block;
+    background-image: url(images/vazia.png);
+    background-repeat: no-repeat;
+    width:20px;
+    height:20px;
+    float:left;
+}
+
+div.atributos{
+    height:37px;
+    width:1059px;
+    background-image: url(atributos.png);
+
+}
+
+div.habilidades{
+    height:37px;
+    width:1059px;
+    background-image: url(habilidades.png);
+
+}
+
+label.habilidades,label.virtudes,
+label.atributos,select.disciplinas,
+select.antecedentes,div.antecedentes,
+div.disciplinas{
+    float:left;
+}
+
+div.fichaBasica{
+    float:left;
+}
+
+
+

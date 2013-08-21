@@ -1,0 +1,17 @@
+<?
+    require_once("Acesso.class.php");
+    require_once("paginaweb.class.php");
+    require_once("funcoes.php");
+    require_once("../View/scripts.class.php");
+    require_once("../View/html.class.php");
+    require_once("../Model/Usuario.class.php");
+    require_once("../Model/ficha.class.php");
+    require_once("../Model/caracteristicas.class.php");
+    require_once("../Model/Atributos.class.php");
+    require_once("../Model/Habilidades.class.php");
+    require_once("../Model/Disciplinas.class.php");
+    require_once("../Model/antecedentes.class.php");
+    require_once("../Model/virtudes.class.php");
+    require_once("../Model/qualidades.class.php");
+    require_once("../Model/noticias.class.php");
+?>
